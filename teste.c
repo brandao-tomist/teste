@@ -1,4 +1,7 @@
 #include <stdio.h>
 int main(){
-    printf("Teste\n");
+    int i;
+    for(i = 0 ; i<10; i++)
+    {printf("Teste\n");}
+return 0;
 }
